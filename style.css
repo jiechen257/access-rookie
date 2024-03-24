@@ -2,6 +2,7 @@
   font-size: 1em !important;
   line-height: 1.4em !important;
 } */
+
 :root {
   --slidev-code-padding: 8px 10px;
   --slidev-code-background: #16161690 !important;
@@ -98,3 +99,8 @@ iframe {
 .rough-annotation > path[stroke-width='2'] {
   stroke-width: calc(2px * var(--slidev-slide-scale));
 }
+
+/* .dark #slide-content {
+  background: linear-gradient(.25turn, #464d48, 10%, #273d35) !important;
+  box-shadow: 20px 20px 10px #000 !important;
+} */
