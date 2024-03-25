@@ -11,8 +11,6 @@ title: Access Rookies
 
 ![](/af-logo-animated.svg){.w-30.mt--10.mb-5}
 
-![](/demo.svg){.w-30.mt--10.mb-5}
-
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/jiechen257/access-rookie" target="_blank" alt="GitHub" title="Open in GitHub"
