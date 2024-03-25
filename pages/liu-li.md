@@ -14,8 +14,8 @@ ISTJ 来自湖南.<br>
 对于工作，希望能从一起合作交流中的同事身上学到每个人优秀的地方，提升专业技能和合作能力，脚踏实地的走好每一步~<br>
 </div>
 
-<img src="/anthony-hi.png" v-click absolute top-32 right-30 w-40 />
-<img src="/hi.png" v-after absolute top-27 right-20 w-8 rotate-10 delay-300 />
+<img src="/l-l.png" v-click absolute top-50 right-14 w-50 />
+<img src="/hi.png" v-after absolute top-48 right-15 w-8 rotate-10 delay-300 />
 
 <div flex="~ gap2">
 

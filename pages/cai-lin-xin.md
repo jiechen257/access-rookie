@@ -15,8 +15,8 @@ growSeed: 14
 对技术保持好奇心，持续积累，提高认知.<br>
 </div>
 
-<img src="/anthony-hi.png" v-click absolute top-32 right-30 w-40 />
-<img src="/hi.png" v-after absolute top-27 right-20 w-8 rotate-10 delay-300 />
+<img src="/c-l-x.png" v-click absolute top-45 right-20 w-50 />
+<img src="/hi.png" v-after absolute top-37 right-18 w-8 rotate-10 delay-300 />
 
 <div flex="~ gap2">
 

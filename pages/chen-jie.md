@@ -19,8 +19,8 @@ ACGM玩家，爱好音乐，有玩桌游、密室、德州，麻将目前在学�
   <div><a href="https://becase.top" target="_blank" class="border-none! font-300">blog</a></div>
 </div>
 
-<img src="/anthony-hi.png" v-click absolute top-32 right-30 w-40 />
-<img src="/hi.png" v-after absolute top-27 right-20 w-8 rotate-10 delay-300 />
+<img src="/c-j.png" v-click absolute top-38 right-20 w-50 />
+<img src="/hi.png" v-after absolute top-30 right-18 w-8 rotate-10 delay-300 />
 
 <div flex="~ gap2">
 

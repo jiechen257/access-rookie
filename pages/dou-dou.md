@@ -20,8 +20,8 @@ growSeed: 14
   <div><a href="https://juejin.cn/user/1790453949664493" target="_blank" class="border-none! font-300">blog</a></div>
 </div>
 
-<img src="/anthony-hi.png" v-click absolute top-32 right-30 w-40 />
-<img src="/hi.png" v-after absolute top-27 right-20 w-8 rotate-10 delay-300 />
+<img src="/d-d.png" v-click absolute top-32 right-10 w-50 />
+<img src="/hi.png" v-after absolute top-30 right-15 w-8 rotate-10 delay-300 />
 
 <div flex="~ gap2">
 

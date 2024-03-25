@@ -13,8 +13,8 @@ growSeed: 14
 “断剑重铸之日，骑士归来之时！”<br>
 </div>
 
-<img src="/anthony-hi.png" v-click absolute top-32 right-30 w-40 />
-<img src="/hi.png" v-after absolute top-27 right-20 w-8 rotate-10 delay-300 />
+<img src="/g-m-h.png" v-click absolute top-45 right-40 w-50 />
+<img src="/hi.png" v-after absolute top-40 right-40 w-8 rotate-10 delay-300 />
 
 <div flex="~ gap2">
 

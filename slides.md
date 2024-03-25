@@ -11,6 +11,9 @@ title: Access Rookies
 
 ![](/af-logo-animated.svg){.w-30.mt--10.mb-5}
 
+![](/demo.svg){.w-30.mt--10.mb-5}
+
+
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/jiechen257/access-rookie" target="_blank" alt="GitHub" title="Open in GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
@@ -52,6 +55,10 @@ src: ./pages/guo-ming-hao.md
 
 ---
 src: ./pages/gao-hao.md
+---
+
+---
+src: ./pages/all.md
 ---
 
 ---

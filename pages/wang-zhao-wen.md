@@ -13,8 +13,8 @@ growSeed: 14
 她是不典型的东北人，主要临床表现为：不高、不大、没有口音且说话声音小，但继承了东北人的幽默和大方↗️<br>
 </div>
 
-<img src="/anthony-hi.png" v-click absolute top-32 right-30 w-40 />
-<img src="/hi.png" v-after absolute top-27 right-20 w-8 rotate-10 delay-300 />
+<img src="/w-z-w.png" v-click absolute top-50 right-18 w-50 />
+<img src="/hi.png" v-after absolute top-42 right-15 w-8 rotate-10 delay-300 />
 
 <div flex="~ gap2">
 
