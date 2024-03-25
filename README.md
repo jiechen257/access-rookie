@@ -1,3 +1,3 @@
 # Here We Are
 
-![](/public/all.png)
+<img src="/public/all.png" style="width: 40vw;">
