@@ -100,7 +100,22 @@ iframe {
   stroke-width: calc(2px * var(--slidev-slide-scale));
 }
 
-/* .dark #slide-content {
-  background: linear-gradient(.25turn, #464d48, 10%, #273d35) !important;
-  box-shadow: 20px 20px 10px #000 !important;
-} */
+@keyframes typing {
+	from { width: 0 }
+}
+
+@keyframes caret {
+	50% { border-right-color: transparent; }
+}
+
+.typing {
+  font: bold 200% Consolas, Monaco, monospace;
+  font-size: 4rem;
+/* 	width: 8.25em; */
+	width: 15ch;
+	white-space: nowrap;
+	overflow: hidden;
+	border-right: .05em solid;
+	animation: typing 3s steps(15) infinite,
+	           caret 1s steps(1) infinite;
+}

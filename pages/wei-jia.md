@@ -14,8 +14,8 @@ growSeed: 14
 工作上希望能高效提升自己，不设限无边界🏊🏻~<br>
 </div>
 
-<img src="/w-j.png" v-click absolute top-45 right-24 w-50 />
-<img src="/hi.png" v-after absolute top-42 right-20 w-8 rotate-10 delay-300 />
+<img src="/w-j.png" absolute top-45 right-24 w-50 />
+<img src="/hi.png" absolute top-42 right-20 w-8 rotate-10 delay-300 />
 
 <div flex="~ gap2">
 

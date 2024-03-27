@@ -13,8 +13,8 @@ growSeed: 14
 社恐，紧张是我；随性，无畏也是我.<br>
 </div>
 
-<img src="/g-z-s.png" v-click absolute top-45 right-20 w-50 />
-<img src="/hi.png" v-after absolute top-37 right-18 w-8 rotate-10 delay-300 />
+<img src="/g-z-s.png" absolute top-45 right-20 w-50 />
+<img src="/hi.png" absolute top-37 right-18 w-8 rotate-10 delay-300 />
 
 <div flex="~ gap2">
 
