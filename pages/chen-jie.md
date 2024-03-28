@@ -16,7 +16,7 @@ ACGM玩家，爱好音乐，有玩桌游、密室、德州，麻将目前在学�
 
 <div my-10 w-min flex="~ gap-1" items-center justify-center>
   <div i-ri-blogger-line op50 ma text-xl/>
-  <div><a href="https://becase.top" target="_blank" class="border-none! font-300">blog</a></div>
+  <div><a href="https://blog.becase.top" target="_blank" class="border-none! font-300">blog</a></div>
 </div>
 
 <img src="/c-j.png" absolute top-38 right-20 w-50 />
